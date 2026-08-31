@@ -1,0 +1,6 @@
+{
+  "name": "CampusRoute",
+  "description": "Campus bus route explorer and live ETA transit guide for new and returning university students.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
